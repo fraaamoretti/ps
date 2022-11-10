@@ -32,9 +32,16 @@ namespace ps
             return a + b;
         }
 
+        public string lancia()
+        {
+            Random rn = new Random();
+            rn.Next(1, 101);
+            return rn.ToString();
+        }
+
         private void btnEsegui_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show(alfa(5, 5)+alfa(5, 5).ToString());
+            MessageBox.Show(alfa(5, 5)+alfa(5, 5).ToString() + "qua tutto bellissimo " + lancia());
         }
     }
 }
