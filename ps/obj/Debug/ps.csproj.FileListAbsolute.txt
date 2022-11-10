@@ -1,0 +1,15 @@
+C:\Users\Francesco\source\repos\ps\ps\bin\Debug\ps.exe.config
+C:\Users\Francesco\source\repos\ps\ps\bin\Debug\ps.exe
+C:\Users\Francesco\source\repos\ps\ps\bin\Debug\ps.pdb
+C:\Users\Francesco\source\repos\ps\ps\obj\Debug\ps.csproj.AssemblyReference.cache
+C:\Users\Francesco\source\repos\ps\ps\obj\Debug\MainWindow.g.cs
+C:\Users\Francesco\source\repos\ps\ps\obj\Debug\App.g.cs
+C:\Users\Francesco\source\repos\ps\ps\obj\Debug\ps_MarkupCompile.cache
+C:\Users\Francesco\source\repos\ps\ps\obj\Debug\ps_MarkupCompile.lref
+C:\Users\Francesco\source\repos\ps\ps\obj\Debug\MainWindow.baml
+C:\Users\Francesco\source\repos\ps\ps\obj\Debug\ps.g.resources
+C:\Users\Francesco\source\repos\ps\ps\obj\Debug\ps.Properties.Resources.resources
+C:\Users\Francesco\source\repos\ps\ps\obj\Debug\ps.csproj.GenerateResource.cache
+C:\Users\Francesco\source\repos\ps\ps\obj\Debug\ps.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\source\repos\ps\ps\obj\Debug\ps.exe
+C:\Users\Francesco\source\repos\ps\ps\obj\Debug\ps.pdb
