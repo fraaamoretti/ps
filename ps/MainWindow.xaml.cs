@@ -23,12 +23,18 @@ namespace ps
         public MainWindow()
         {
             InitializeComponent();
-            MessageBox.Show(alfa(1,2).ToString());
+            //MessageBox.Show(alfa(1,2).ToString());
+            //aggiunto commento
         }
 
         public int alfa(int a, int b)
         {
             return a + b;
+        }
+
+        private void btnEsegui_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show(alfa(5, 5)+alfa(5, 5).ToString());
         }
     }
 }

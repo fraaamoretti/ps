@@ -6,5 +6,7 @@
         xmlns:local="clr-namespace:ps"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid/>
+    <Grid>
+        <Button x:Name="btnEsegui" Content="esegui" HorizontalAlignment="Left" Margin="125,83,0,0" VerticalAlignment="Top" Width="244" Height="89" Click="btnEsegui_Click"/>
+    </Grid>
 </Window>
